@@ -50,7 +50,7 @@ class Node {
   constructor(value) {
     this.value = value;
   }
-}
+}     
 
 const ll = new LinkedList();
 ll.length;
