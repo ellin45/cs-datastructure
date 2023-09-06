@@ -21,10 +21,9 @@ export class Stack {
         return this.arr.length;
     }
 
-    //push
-    add(value)
+    
 }
-
+//사용 예시
 const stack = new Stack();
 stack.push(1);
 stack.push(3);
